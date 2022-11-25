@@ -1,3 +1,4 @@
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,6 +7,13 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div class="form">
+        <form action="signup" method="post">
+            {% csrf_token %}
+            {{form}}
+            <button type="submit">Signup</button>
+
+        </form>
+    </div>
 </body>
 </html>

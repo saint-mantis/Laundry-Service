@@ -1,0 +1,7 @@
+1) google map api
+2) face recognition security
+3) sentimental analysis
+4) dashboard for analysis
+5) dashboard for partner approval
+6) otp authentication
+7) QR code order scanner
