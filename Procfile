@@ -1,1 +1,1 @@
-web: gunicorn 'LaundryService.wsgi'
+web: gunicorn LaundryService.wsgi
